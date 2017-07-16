@@ -17,3 +17,4 @@ Started with a simple online tutorial then extended to use user authentication w
 - Devise (https://github.com/plataformatec/devise)
 - Bootstrap (http://getbootstrap.com)
 - Cloud9 IDE (https://c9.io/)
+- Dillinger (http://dillinger.io)
