@@ -1,5 +1,5 @@
 # A Blog Using Ruby on Rails
-Started with a simple online tutorial then extended to use user authentication with multiple user types.
+Started with a simple online tutorial then extended to use user authentication with multiple user types. A working version can be found at https://rails-blog-jasonbruno.c9users.io/ email notifications and signup confirmation has been disabled - also changing your user_type to admin will have to be done manually so let me know by contacting me at https://jasonbruno.net
 
 ### Features
 - Simple homepage interface
